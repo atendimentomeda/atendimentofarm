@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 08 Jul 2025 10:13:53 at https://sudpafhr.manus.space/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://sudpafhr.manus.space/ -O1 "C:\Users\arnaldo\Documents\ADS" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:13:58	Error: 	"Not Found" (404) at link https://sudpafhr.manus.space/n (from https://sudpafhr.manus.space/)
+10:13:58	Error: 	"Not Found" (404) at link https://sudpafhr.manus.space/; path=/ (from https://sudpafhr.manus.space/)
+10:13:58	Error: 	"Not Found" (404) at link https://sudpafhr.manus.space/POST (from https://sudpafhr.manus.space/)
+10:13:58	Error: 	"Not Found" (404) at link https://sudpafhr.manus.space/e (from https://sudpafhr.manus.space/)
+10:13:58	Error: 	"Not Found" (404) at link https://sudpafhr.manus.space/Z.href,window.location.href (from https://sudpafhr.manus.space/)
+10:13:58	Error: 	"Not Found" (404) at link https://sudpafhr.manus.space/t,n (from https://sudpafhr.manus.space/)
+10:13:58	Error: 	"Not Found" (404) at link https://sudpafhr.manus.space/window.location.href (from https://sudpafhr.manus.space/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 seconds : 15 links scanned, 7 files written (1217379 bytes overall) [623473 bytes received at 124694 bytes/sec], 830581 bytes transferred using HTTP compression in 5 files, ratio 26%, 3.7 requests per connection
+(7 errors, 0 warnings, 0 messages)
